@@ -22,9 +22,17 @@ Where politics is palatable. We are a Republican precinct in Utah County working
 
 {{< spacer >}}
 
-## Precinct Leaders
+## Precinct Officers
 
-Information about your PG03 precinct leaders and how to get in touch.
+{{< responsive_table >}}
+| Role | Name | State Delegate | County Delegate |
+| --- | --- | :---: | :---: |
+| Chair | Sequoia Ploeg | X | X |
+| Vice-Chair | Constance Manwill | X | X |
+| Secretary | Debra Lewis | | X |
+| Delegate | Jill Judson | X | |
+| Delegate | Lane Manwill | X | X |
+{{< /responsive_table >}}
 
 {{< spacer >}}
 
