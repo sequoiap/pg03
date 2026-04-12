@@ -8,10 +8,10 @@ en:
   params:
     description: "Precinct website for PG03."
     ### accessibility ###
-    accessibility:
-      skip_text: "Skip to content"
-      help_text: "Accessibility Statement"
-      help_url: "/newsletter/"
+    # accessibility:
+    #   skip_text: "Skip to content"
+    #   help_text: "Accessibility Statement"
+    #   help_url: "/newsletter/"
     ### calls to action ###
     main_cta:
       text: "Email Updates"
