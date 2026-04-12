@@ -9,7 +9,7 @@ showHeader: false
 # Welcome to PG03
 
 {{< intro >}}
-Where politics is palatable. We are a Republican precinct in Utah County working to keep our community informed and engaged.
+We are a Republican precinct in Utah County working to keep our community informed and engaged.
 {{< /intro >}}
 
 {{< button link="/newsletter/" text="Sign Up for Email Updates" >}}
