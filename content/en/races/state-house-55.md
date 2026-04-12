@@ -9,7 +9,7 @@ This race is **uncontested**. The candidate will win by acclamation.
 
 {{< cards count=3 >}}
 {{< card >}}
-{{< img src="/img/candidates/placeholder.svg" alt="Jon Hawkins" >}}
+{{< img src="https://admin.precinctportal.org/media/people/candidate_photo_1576.webp" alt="Jon Hawkins" >}}
 #### [Jon Hawkins](/candidates/jon-hawkins/)
 {{< /card >}}
 {{< /cards >}}

@@ -7,11 +7,11 @@ description: Candidates for State Senator District 21.
 
 {{< cards count=2 >}}
 {{< card >}}
-{{< img src="/img/candidates/placeholder.svg" alt="Brady Brammer" >}}
+{{< img src="https://admin.precinctportal.org/media/people/candidate_photo_1636.webp" alt="Brady Brammer" >}}
 #### [Brady Brammer](/candidates/brady-brammer/)
 {{< /card >}}
 {{< card >}}
-{{< img src="/img/candidates/placeholder.svg" alt="Kelly Smith" >}}
+{{< img src="/img/candidates/kelly-smith.png" alt="Kelly Smith" >}}
 #### [Kelly Smith](/candidates/kelly-smith/)
 {{< /card >}}
 {{< /cards >}}

@@ -7,7 +7,7 @@ description: Candidates for US House District 4.
 
 {{< cards count=3 >}}
 {{< card >}}
-{{< img src="/img/candidates/placeholder.svg" alt="Mike Kennedy" >}}
+{{< img src="https://admin.precinctportal.org/media/people/candidate_photo_1700.webp" alt="Mike Kennedy" >}}
 #### [Mike Kennedy](/candidates/mike-kennedy/)
 {{< /card >}}
 {{< card >}}
@@ -15,7 +15,7 @@ description: Candidates for US House District 4.
 #### [Tyrone Jensen](/candidates/tyrone-jensen/)
 {{< /card >}}
 {{< card >}}
-{{< img src="/img/candidates/placeholder.svg" alt="Scott Hatfield" >}}
+{{< img src="https://admin.precinctportal.org/media/people/candidate_photo_1692.webp" alt="Scott Hatfield" >}}
 #### [Scott Hatfield](/candidates/scott-hatfield/)
 {{< /card >}}
 {{< /cards >}}
@@ -26,7 +26,7 @@ description: Candidates for US House District 4.
 #### [Isaiah Hardman](/candidates/isaiah-hardman/)
 {{< /card >}}
 {{< card >}}
-{{< img src="/img/candidates/placeholder.svg" alt="Seth A. Stewart" >}}
+{{< img src="https://admin.precinctportal.org/media/people/candidate_photo_1693.webp" alt="Seth A. Stewart" >}}
 #### [Seth A. Stewart](/candidates/seth-a-stewart/)
 {{< /card >}}
 {{< card >}}

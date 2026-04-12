@@ -7,7 +7,7 @@ description: Candidates for Utah County Auditor.
 
 {{< cards count=3 >}}
 {{< card >}}
-{{< img src="/img/candidates/placeholder.svg" alt="Gina Tanner" >}}
+{{< img src="https://admin.precinctportal.org/media/people/candidate_photo_1650.webp" alt="Gina Tanner" >}}
 #### [Gina Tanner](/candidates/gina-tanner/)
 {{< /card >}}
 {{< card >}}
@@ -15,7 +15,7 @@ description: Candidates for Utah County Auditor.
 #### [Travis Hoban](/candidates/travis-hoban/)
 {{< /card >}}
 {{< card >}}
-{{< img src="/img/candidates/placeholder.svg" alt="Tad Rasmussen" >}}
+{{< img src="https://admin.precinctportal.org/media/people/candidate_photo_1651.webp" alt="Tad Rasmussen" >}}
 #### [Tad Rasmussen](/candidates/tad-rasmussen/)
 {{< /card >}}
 {{< /cards >}}

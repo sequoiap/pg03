@@ -7,4 +7,6 @@ description: Candidate for Utah County Sheriff.
 
 **Race:** [County Sheriff](/races/county-sheriff/)
 
-<!-- TODO: Add candidate literature, website, policy platform -->
+**Website:** <!-- TODO: Add website link -->
+
+<!-- TODO: Add candidate literature, policy platform -->

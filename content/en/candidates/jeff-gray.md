@@ -7,4 +7,6 @@ description: Candidate for Utah County Attorney.
 
 **Race:** [County Attorney](/races/county-attorney/)
 
-<!-- TODO: Add candidate literature, website, policy platform -->
+**Website:** <!-- TODO: Add website link -->
+
+<!-- TODO: Add candidate literature, policy platform -->

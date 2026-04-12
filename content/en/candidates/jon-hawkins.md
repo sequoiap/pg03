@@ -7,4 +7,6 @@ description: Candidate for State House District 55.
 
 **Race:** [State House District 55](/races/state-house-55/)
 
-<!-- TODO: Add candidate literature, website, policy platform -->
+**Website:** <!-- TODO: Add website link -->
+
+<!-- TODO: Add candidate literature, policy platform -->
