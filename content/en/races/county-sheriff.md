@@ -3,8 +3,13 @@ title: County Sheriff
 description: Candidates for Utah County Sheriff.
 ---
 
-## Candidates
+This race is **uncontested**. The candidate will win by acclamation.
 
-- Mike Smith
+## Candidate
 
-<!-- TODO: Add candidate details, literature, websites, policy platforms -->
+{{< cards count=3 >}}
+{{< card >}}
+{{< img src="/img/candidates/placeholder.svg" alt="Mike Smith" >}}
+#### [Mike Smith](/candidates/mike-smith/)
+{{< /card >}}
+{{< /cards >}}

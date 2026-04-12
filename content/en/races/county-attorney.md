@@ -3,8 +3,13 @@ title: County Attorney
 description: Candidates for Utah County Attorney.
 ---
 
-## Candidates
+This race is **uncontested**. The candidate will win by acclamation.
 
-- Jeff Gray
+## Candidate
 
-<!-- TODO: Add candidate details, literature, websites, policy platforms -->
+{{< cards count=3 >}}
+{{< card >}}
+{{< img src="/img/candidates/placeholder.svg" alt="Jeff Gray" >}}
+#### [Jeff Gray](/candidates/jeff-gray/)
+{{< /card >}}
+{{< /cards >}}

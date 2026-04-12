@@ -5,7 +5,17 @@ description: Candidates for Utah County Auditor.
 
 ## Candidates
 
-- Gina Tanner
-- Corey Astill
-
-<!-- TODO: Add candidate details, literature, websites, policy platforms -->
+{{< cards count=3 >}}
+{{< card >}}
+{{< img src="/img/candidates/placeholder.svg" alt="Gina Tanner" >}}
+#### [Gina Tanner](/candidates/gina-tanner/)
+{{< /card >}}
+{{< card >}}
+{{< img src="/img/candidates/placeholder.svg" alt="Travis Hoban" >}}
+#### [Travis Hoban](/candidates/travis-hoban/)
+{{< /card >}}
+{{< card >}}
+{{< img src="/img/candidates/placeholder.svg" alt="Tad Rasmussen" >}}
+#### [Tad Rasmussen](/candidates/tad-rasmussen/)
+{{< /card >}}
+{{< /cards >}}

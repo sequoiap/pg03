@@ -3,8 +3,13 @@ title: State House District 55
 description: Candidates for State House District 55.
 ---
 
-## Candidates
+This race is **uncontested**. The candidate will win by acclamation.
 
-- Jon Hawkins
+## Candidate
 
-<!-- TODO: Add candidate details, literature, websites, policy platforms -->
+{{< cards count=3 >}}
+{{< card >}}
+{{< img src="/img/candidates/placeholder.svg" alt="Jon Hawkins" >}}
+#### [Jon Hawkins](/candidates/jon-hawkins/)
+{{< /card >}}
+{{< /cards >}}

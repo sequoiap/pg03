@@ -5,6 +5,13 @@ description: Candidates for State School Board District 11.
 
 ## Candidates
 
-- Tracy Nuttall
-
-<!-- TODO: Add candidate details, literature, websites, policy platforms -->
+{{< cards count=2 >}}
+{{< card >}}
+{{< img src="/img/candidates/placeholder.svg" alt="Terry Hutchinson" >}}
+#### [Terry Hutchinson](/candidates/terry-hutchinson/)
+{{< /card >}}
+{{< card >}}
+{{< img src="/img/candidates/placeholder.svg" alt="Tracy Nuttall" >}}
+#### [Tracy Nuttall](/candidates/tracy-nuttall/)
+{{< /card >}}
+{{< /cards >}}
