@@ -2,10 +2,11 @@ en:
   languageName: English
   weight: 1
   ### copyright (markdown can be used) ###
-  copyright: "Copyright &copy; {{< current_year >}} Company Name. All Rights Reserved. [Dot Org Theme](https://github.com/cncf/dot-org-hugo-theme) for Hugo by [CNCF](https://www.cncf.io)."
-  title: "Site Title"
+  copyright: "Copyright &copy; {{< current_year >}} Sequoia Ploeg. All Rights Reserved."
+  # [Dot Org Theme](https://github.com/cncf/dot-org-hugo-theme) for Hugo by [CNCF](https://www.cncf.io).
+  title: "PG03"
   params:
-    description: "Site Description"
+    description: "Precinct website for PG03."
     ### accessibility ###
     accessibility:
       skip_text: "Skip to content"
@@ -13,10 +14,10 @@ en:
       help_url: "/example-page/"
     ### calls to action ###
     main_cta:
-      text: "Join"
+      text: "Email Updates"
       link: "/example-page/"
     footer_cta:
-      text: "Join us"
+      text: "Email Updates"
       link: "/example-page/"
     github_edit: "Edit this page on GitHub"
   ### example menu showing children ###
@@ -60,29 +61,3 @@ en:
       name: "External"
       url: "https://cncf.io?ref=dot-org"
       weight: 5
-es:
-  languageName: Spanish
-  contentDir: content/es
-  weight: 2
-  title: "Título del Sitio"
-  params:
-    description: "Descripción del Sitio"
-  menu:
-    main:
-    - identifier: "about"
-      name: "Acerca de"
-      url: "/example-page/"
-      weight: 1
-    - identifier: "child-1"
-      name: "Página Hija de Ejemplo"
-      url: "/example-page/"
-      weight: 1
-      parent: "about"
-    - identifier: "faq"
-      name: "FAQs"
-      url: "/faq/"
-      weight: 3
-    - identifier: "blog"
-      name: "Blog"
-      url: "/blog/"
-      weight: 2
