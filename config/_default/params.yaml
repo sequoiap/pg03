@@ -12,18 +12,18 @@ custom_css: []
 images: ["/img/social-share.png"]
 
 github:
-  repo_url: "https://github.com/username/repo/blob/master"
-  show_edit_link: true
+  repo_url: "https://github.com/sequoiap/pg03/blob/master"
+  show_edit_link: false
 
 social_links:
   devstats: ""
   discord: ""
   facebook: ""
   flickr: ""
-  github: "https://github.com/cncf/dot-org-hugo-theme"
+  github: ""
   instagram: ""
   landscape: ""
-  linkedin: "https://www.linkedin.com/company/cloud-native-computing-foundation"
+  linkedin: ""
   mastodon: ""
   pinterest: ""
   rss: ""
