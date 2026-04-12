@@ -7,6 +7,6 @@ description: Candidate for US House District 4.
 
 **Race:** [US House District 4](/races/us-house-4/)
 
-**Website:** <!-- TODO: Add website link -->
+**Website:** [hardmanforcongress.com](https://hardmanforcongress.com)
 
 <!-- TODO: Add candidate literature, policy platform -->

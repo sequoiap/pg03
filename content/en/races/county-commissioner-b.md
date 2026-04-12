@@ -37,4 +37,8 @@ description: Candidates for Utah County Commissioner Seat B.
 {{< img src="https://admin.precinctportal.org/media/people/candidate_photo_1667.webp" alt="Isaac Paxman" >}}
 #### [Isaac Paxman](/candidates/isaac-paxman/)
 {{< /card >}}
+{{< card >}}
+{{< img src="/img/candidates/placeholder.svg" alt="Brian Voeks" >}}
+#### [Brian Voeks](/candidates/brian-voeks/)
+{{< /card >}}
 {{< /cards >}}

@@ -1,12 +1,12 @@
 ---
-title: Corey Astill
+title: Doug Cortney
 description: Candidate for Utah County Clerk.
 ---
 
-## Corey Astill
+## Doug Cortney
 
 **Race:** [County Clerk](/races/county-clerk/)
 
-**Website:** [coreyastill.com](https://coreyastill.com)
+**Website:** <!-- TODO: Add website link -->
 
 <!-- TODO: Add candidate literature, policy platform -->

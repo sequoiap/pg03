@@ -46,35 +46,40 @@ en:
       url: "/races/county-commissioner-b/"
       weight: 4
       parent: "races"
+    - identifier: "race-assessor"
+      name: "County Assessor"
+      url: "/races/county-assessor/"
+      weight: 5
+      parent: "races"
     - identifier: "race-attorney"
       name: "County Attorney"
       url: "/races/county-attorney/"
-      weight: 5
+      weight: 6
       parent: "races"
     - identifier: "race-auditor"
       name: "County Auditor"
       url: "/races/county-auditor/"
-      weight: 6
+      weight: 7
       parent: "races"
     - identifier: "race-clerk"
       name: "County Clerk"
       url: "/races/county-clerk/"
-      weight: 7
+      weight: 8
       parent: "races"
     - identifier: "race-sheriff"
       name: "County Sheriff"
       url: "/races/county-sheriff/"
-      weight: 8
+      weight: 9
       parent: "races"
     - identifier: "race-us-house-4"
       name: "US House District 4"
       url: "/races/us-house-4/"
-      weight: 9
+      weight: 10
       parent: "races"
     - identifier: "race-school-board-11"
       name: "State School Board District 11"
       url: "/races/state-school-board-11/"
-      weight: 10
+      weight: 11
       parent: "races"
     - identifier: "issues"
       name: "Issues"

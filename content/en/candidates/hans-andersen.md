@@ -1,12 +1,12 @@
 ---
-title: Tad Rasmussen
+title: Hans Andersen
 description: Candidate for Utah County Auditor.
 ---
 
-## Tad Rasmussen
+## Hans Andersen
 
 **Race:** [County Auditor](/races/county-auditor/)
 
-**Website:** [tad4auditor.com](https://www.tad4auditor.com)
+**Website:** <!-- TODO: Add website link -->
 
 <!-- TODO: Add candidate literature, policy platform -->

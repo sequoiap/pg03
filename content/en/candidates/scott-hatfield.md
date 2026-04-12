@@ -7,6 +7,6 @@ description: Candidate for US House District 4.
 
 **Race:** [US House District 4](/races/us-house-4/)
 
-**Website:** <!-- TODO: Add website link -->
+**Website:** [scottforutah.com](https://www.scottforutah.com)
 
 <!-- TODO: Add candidate literature, policy platform -->

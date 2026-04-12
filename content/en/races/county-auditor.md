@@ -18,4 +18,8 @@ description: Candidates for Utah County Auditor.
 {{< img src="https://admin.precinctportal.org/media/people/candidate_photo_1651.webp" alt="Tad Rasmussen" >}}
 #### [Tad Rasmussen](/candidates/tad-rasmussen/)
 {{< /card >}}
+{{< card >}}
+{{< img src="/img/candidates/placeholder.svg" alt="Hans Andersen" >}}
+#### [Hans Andersen](/candidates/hans-andersen/)
+{{< /card >}}
 {{< /cards >}}

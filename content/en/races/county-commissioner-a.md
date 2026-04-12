@@ -37,4 +37,8 @@ description: Candidates for Utah County Commissioner Seat A.
 {{< img src="https://admin.precinctportal.org/media/people/candidate_photo_1659.webp" alt="Michelle Kaufusi" >}}
 #### [Michelle Kaufusi](/candidates/michelle-kaufusi/)
 {{< /card >}}
+{{< card >}}
+{{< img src="/img/candidates/placeholder.svg" alt="Christopher Forbush" >}}
+#### [Christopher Forbush](/candidates/christopher-forbush/)
+{{< /card >}}
 {{< /cards >}}

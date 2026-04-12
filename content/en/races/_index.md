@@ -37,11 +37,20 @@ Below are the races relevant to PG03 for the 2026 Republican midterm elections. 
 
 {{< spacer >}}
 
-{{< cards count=3 >}}
+{{< cards count=2 >}}
+{{< card >}}
+### County Assessor
+[View Candidates](/races/county-assessor/)
+{{< /card >}}
 {{< card >}}
 ### County Attorney
 [View Candidates](/races/county-attorney/)
 {{< /card >}}
+{{< /cards >}}
+
+{{< spacer >}}
+
+{{< cards count=3 >}}
 {{< card >}}
 ### County Auditor
 [View Candidates](/races/county-auditor/)
@@ -50,11 +59,6 @@ Below are the races relevant to PG03 for the 2026 Republican midterm elections. 
 ### County Clerk
 [View Candidates](/races/county-clerk/)
 {{< /card >}}
-{{< /cards >}}
-
-{{< spacer >}}
-
-{{< cards count=1 >}}
 {{< card >}}
 ### County Sheriff
 [View Candidates](/races/county-sheriff/)

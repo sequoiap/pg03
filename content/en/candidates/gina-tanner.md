@@ -7,6 +7,6 @@ description: Candidate for Utah County Auditor.
 
 **Race:** [County Auditor](/races/county-auditor/)
 
-**Website:** <!-- TODO: Add website link -->
+**Website:** [auditorgina.com](https://auditorgina.com)
 
 <!-- TODO: Add candidate literature, policy platform -->
