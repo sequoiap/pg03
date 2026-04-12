@@ -11,53 +11,105 @@ en:
     accessibility:
       skip_text: "Skip to content"
       help_text: "Accessibility Statement"
-      help_url: "/example-page/"
+      help_url: "/newsletter/"
     ### calls to action ###
     main_cta:
       text: "Email Updates"
-      link: "/example-page/"
+      link: "/newsletter/"
     footer_cta:
       text: "Email Updates"
-      link: "/example-page/"
+      link: "/newsletter/"
     github_edit: "Edit this page on GitHub"
-  ### example menu showing children ###
   menu:
     main:
-    - identifier: "about"
-      name: "About"
-      url: "/example-page/"
+    - identifier: "races"
+      name: "Races"
+      url: "/races/"
       weight: 1
-    - identifier: "child-1"
-      name: "Example Child Page"
-      url: "/example-page/"
+    - identifier: "race-senator-21"
+      name: "State Senator District 21"
+      url: "/races/state-senator-21/"
       weight: 1
-      post: "Nulla consequat massa quis enim. Donec pede justo."
-      parent: "about"
-    - identifier: "child-2"
-      name: "Example Child Page"
-      url: "/example-page/"
+      parent: "races"
+    - identifier: "race-house-55"
+      name: "State House District 55"
+      url: "/races/state-house-55/"
       weight: 2
-      post: "Aenean commodo ligula get dolor. Aenean massa."
-      parent: "about"
-    - identifier: "child-3"
-      name: "Example External page"
-      url: "https://cncf.io?ref=dot-org"
+      parent: "races"
+    - identifier: "race-commissioner-a"
+      name: "County Commissioner Seat A"
+      url: "/races/county-commissioner-a/"
       weight: 3
-      post: "Lorem ipsum dolor sit amet consectetuer adipiscing elit aenean commodo."
-      parent: "about"
-    - identifier: "demo-page"
-      name: "Demo Page"
-      url: "/demo-page/"
-      weight: 2
-    - identifier: "faq"
-      name: "FAQs"
-      url: "/faq/"
-      weight: 3
-    - identifier: "blog"
-      name: "Blog"
-      url: "/blog/"
+      parent: "races"
+    - identifier: "race-commissioner-b"
+      name: "County Commissioner Seat B"
+      url: "/races/county-commissioner-b/"
       weight: 4
-    - identifier: "example"
-      name: "External"
-      url: "https://cncf.io?ref=dot-org"
+      parent: "races"
+    - identifier: "race-attorney"
+      name: "County Attorney"
+      url: "/races/county-attorney/"
       weight: 5
+      parent: "races"
+    - identifier: "race-auditor"
+      name: "County Auditor"
+      url: "/races/county-auditor/"
+      weight: 6
+      parent: "races"
+    - identifier: "race-clerk"
+      name: "County Clerk"
+      url: "/races/county-clerk/"
+      weight: 7
+      parent: "races"
+    - identifier: "race-sheriff"
+      name: "County Sheriff"
+      url: "/races/county-sheriff/"
+      weight: 8
+      parent: "races"
+    - identifier: "race-us-house-4"
+      name: "US House District 4"
+      url: "/races/us-house-4/"
+      weight: 9
+      parent: "races"
+    - identifier: "race-school-board-11"
+      name: "State School Board District 11"
+      url: "/races/state-school-board-11/"
+      weight: 10
+      parent: "races"
+    - identifier: "issues"
+      name: "Issues"
+      url: "/issues/"
+      weight: 2
+    - identifier: "issue-infrastructure"
+      name: "Infrastructure"
+      url: "/issues/infrastructure/"
+      weight: 1
+      parent: "issues"
+    - identifier: "issue-immigration"
+      name: "Immigration"
+      url: "/issues/immigration/"
+      weight: 2
+      parent: "issues"
+    - identifier: "issue-law-enforcement"
+      name: "Law Enforcement"
+      url: "/issues/law-enforcement/"
+      weight: 3
+      parent: "issues"
+    - identifier: "issue-signature-gathering"
+      name: "Signature Gathering"
+      url: "/issues/signature-gathering/"
+      weight: 4
+      parent: "issues"
+    - identifier: "issue-mail-in-ballots"
+      name: "Mail-in Ballots"
+      url: "/issues/mail-in-ballots/"
+      weight: 5
+      parent: "issues"
+    - identifier: "straw-poll"
+      name: "Straw Poll"
+      url: "/straw-poll/"
+      weight: 3
+    - identifier: "county-party"
+      name: "County Party"
+      url: "/county-party/"
+      weight: 4
