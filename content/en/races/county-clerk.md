@@ -5,7 +5,7 @@ description: Candidates for Utah County Clerk.
 
 ## Candidates
 
-{{< cards count=2 >}}
+{{< cards count=4 >}}
 {{< card >}}
 {{< img src="/img/candidates/placeholder.svg" alt="Aaron Davidson" >}}
 #### [Aaron Davidson](/candidates/aaron-davidson/)

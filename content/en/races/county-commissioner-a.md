@@ -24,7 +24,7 @@ description: Candidates for Utah County Commissioner Seat A.
 {{< /card >}}
 {{< /cards >}}
 
-{{< cards count=3 >}}
+{{< cards count=4 >}}
 {{< card >}}
 {{< img src="/img/candidates/placeholder.svg" alt="Nate Hepler" >}}
 #### [Nate Hepler](/candidates/nate-hepler/)

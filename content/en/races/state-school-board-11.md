@@ -5,7 +5,7 @@ description: Candidates for State School Board District 11.
 
 ## Candidates
 
-{{< cards count=2 >}}
+{{< cards count=4 >}}
 {{< card >}}
 {{< img src="https://admin.precinctportal.org/media/people/candidate_photo_1618.webp" alt="Terry Hutchinson" >}}
 #### [Terry Hutchinson](/candidates/terry-hutchinson/)

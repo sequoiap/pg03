@@ -24,7 +24,7 @@ description: Candidates for Utah County Commissioner Seat B.
 {{< /card >}}
 {{< /cards >}}
 
-{{< cards count=3 >}}
+{{< cards count=4 >}}
 {{< card >}}
 {{< img src="https://admin.precinctportal.org/media/people/candidate_photo_1668.webp" alt="Rod Mann" >}}
 #### [Rod Mann](/candidates/rod-mann/)

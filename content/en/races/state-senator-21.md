@@ -5,7 +5,7 @@ description: Candidates for State Senator District 21.
 
 ## Candidates
 
-{{< cards count=2 >}}
+{{< cards count=4 >}}
 {{< card >}}
 {{< img src="https://admin.precinctportal.org/media/people/candidate_photo_1636.webp" alt="Brady Brammer" >}}
 #### [Brady Brammer](/candidates/brady-brammer/)

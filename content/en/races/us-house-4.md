@@ -5,7 +5,7 @@ description: Candidates for US House District 4.
 
 ## Candidates
 
-{{< cards count=3 >}}
+{{< cards count=4 >}}
 {{< card >}}
 {{< img src="https://admin.precinctportal.org/media/people/candidate_photo_1700.webp" alt="Mike Kennedy" >}}
 #### [Mike Kennedy](/candidates/mike-kennedy/)
@@ -20,7 +20,7 @@ description: Candidates for US House District 4.
 {{< /card >}}
 {{< /cards >}}
 
-{{< cards count=3 >}}
+{{< cards count=4 >}}
 {{< card >}}
 {{< img src="/img/candidates/placeholder.svg" alt="Isaiah Hardman" >}}
 #### [Isaiah Hardman](/candidates/isaiah-hardman/)
