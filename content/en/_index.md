@@ -17,7 +17,7 @@ Where politics is palatable. We are a Republican precinct in Utah County working
 {{< /column >}}
 {{< column >}}
 {{< spacer >}}
-{{< image src="/images/25pg03.png" alt="PG03 Precinct" >}}
+{{< img src="/img/25pg03.png" alt="PG03 Precinct" >}}
 {{< /column >}}
 {{< /columns >}}
 
