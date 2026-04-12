@@ -1,0 +1,15 @@
+{
+  "name": "pg03",
+  "version": "1.0.0",
+  "description": "PG03 website",
+  "scripts": {
+    "build": "hugo --environment=production --theme=dot-org-hugo-theme",
+    "start": "hugo serve --logLevel info --buildDrafts --buildFuture --disableFastRender"
+  },
+  "dependencies": {
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.5.6",
+    "postcss-cli": "^11.0.1",
+    "sass-embedded": "^1.89.2"
+  }
+}
