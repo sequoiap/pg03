@@ -1,6 +1,6 @@
 ######################## production configuration ####################
 # The base URL of your site (required). This will be prepended to all relative URLs.
-baseURL: https://sequoiap.github.io/pg03/
+baseURL: https://pg03.sequoiaploeg.com/
 googleAnalytics:
 enableRobotsTXT: true
 build:
