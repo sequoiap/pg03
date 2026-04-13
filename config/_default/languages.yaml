@@ -19,7 +19,7 @@ en:
     footer_cta:
       text: "Email Updates"
       link: "/newsletter/"
-    github_edit: "Edit this page on GitHub"
+    # github_edit: "Edit this page on GitHub"
   menu:
     main:
     - identifier: "races"
@@ -100,15 +100,10 @@ en:
       url: "/issues/law-enforcement/"
       weight: 3
       parent: "issues"
-    - identifier: "issue-signature-gathering"
-      name: "Signature Gathering"
-      url: "/issues/signature-gathering/"
+    - identifier: "issue-elections"
+      name: "Elections"
+      url: "/issues/elections/"
       weight: 4
-      parent: "issues"
-    - identifier: "issue-mail-in-ballots"
-      name: "Mail-in Ballots"
-      url: "/issues/mail-in-ballots/"
-      weight: 5
       parent: "issues"
     - identifier: "straw-poll"
       name: "Straw Poll"

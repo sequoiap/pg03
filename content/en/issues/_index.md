@@ -26,14 +26,7 @@ Explore the key issues relevant to PG03 and Utah County. Each issue includes arg
 [Read More](/issues/law-enforcement/)
 {{< /card >}}
 {{< card >}}
-### Signature Gathering
-[Read More](/issues/signature-gathering/)
-{{< /card >}}
-{{< /cards >}}
-
-{{< cards count=1 >}}
-{{< card >}}
-### Mail-in Ballots
-[Read More](/issues/mail-in-ballots/)
+### Elections
+[Read More](/issues/elections/)
 {{< /card >}}
 {{< /cards >}}
