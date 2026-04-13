@@ -31,7 +31,6 @@ We are a Republican precinct in Utah County working to keep our community inform
 | Chair | Sequoia Ploeg | X | X |
 | Vice-Chair | Constance Manwill | X | X |
 | Secretary | Debra Lewis | | X |
-| Delegate | Jill Judson | X | |
 | Delegate | Lane Manwill | X | X |
 {{< /responsive_table >}}
 
