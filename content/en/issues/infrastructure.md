@@ -8,9 +8,10 @@ description: Infrastructure issues in Utah County.
 The Utah Farmland Assessment Act (often called the "Greenbelt Act") was passed by the Utah Legislature in 1969. It was introduced as a response to urban expansion forcing farmers to sell land due to high market-value taxes, allowing land to instead be taxed based on its agricultural production value.
 
 Qualification Requirements:
-    - **Production:** Land must produce >50% of the average agricultural production per acre for the county.
-    - **Activity:** Must be actively devoted to agricultural use with a "reasonable expectation of profit".
-    - **Timeline:** Land must have been in agricultural use for at least two consecutive years.
+
+- **Production:** Land must produce >50% of the average agricultural production per acre for the county.  
+- **Activity:** Must be actively devoted to agricultural use with a "reasonable expectation of profit".  
+- **Timeline:** Land must have been in agricultural use for at least two consecutive years.  
 
 Tax Implications: Land is assessed based on what it produces (e.g., alfalfa, grazing, orchard) rather than its market value.
 
