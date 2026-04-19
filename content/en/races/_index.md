@@ -13,14 +13,16 @@ Below are the races relevant to PG03 for the 2026 Republican midterm elections. 
 
 ### State Senator District 21
 
+*Brady Brammer won the nomination at County Convention. Kelly Smith gathered signatures and will face off in a primary.*
+
 {{< cards count=4 >}}
-{{< card >}}
-{{< img src="/img/candidates/kelly-smith.png" alt="Kelly Smith" >}}
-#### [Kelly Smith](/candidates/kelly-smith/)
-{{< /card >}}
 {{< card >}}
 {{< img src="https://admin.precinctportal.org/media/people/candidate_photo_1636.webp" alt="Brady Brammer" >}}
 #### [Brady Brammer](/candidates/brady-brammer/)
+{{< /card >}}
+{{< card >}}
+{{< img src="/img/candidates/kelly-smith.png" alt="Kelly Smith" >}}
+#### [Kelly Smith](/candidates/kelly-smith/)
 {{< /card >}}
 {{< /cards >}}
 
@@ -41,47 +43,24 @@ Below are the races relevant to PG03 for the 2026 Republican midterm elections. 
 
 ### Utah County Commissioner Seat A
 
+*Brent Bowles won the nomination at County Convention. Michelle Kaufusi gathered signatures and will face off in a primary.*
+
 {{< cards count=4 >}}
 {{< card >}}
 {{< img src="/img/candidates/placeholder.svg" alt="Brent Bowles" >}}
 #### [Brent Bowles](/candidates/brent-bowles/)
 {{< /card >}}
 {{< card >}}
-{{< img src="https://admin.precinctportal.org/media/people/candidate_photo_1658.webp" alt="Larry Evans" >}}
-#### [Larry Evans](/candidates/larry-evans/)
-{{< /card >}}
-{{< card >}}
-{{< img src="https://admin.precinctportal.org/media/people/candidate_photo_1663.webp" alt="Taylor Fox" >}}
-#### [Taylor Fox](/candidates/taylor-fox/)
-{{< /card >}}
-{{< card >}}
-{{< img src="/img/candidates/placeholder.svg" alt="Richard Smith" >}}
-#### [Richard Smith](/candidates/richard-smith/)
-{{< /card >}}
-{{< /cards >}}
-
-{{< cards count=4 >}}
-{{< card >}}
-{{< img src="/img/candidates/placeholder.svg" alt="Nate Hepler" >}}
-#### [Nate Hepler](/candidates/nate-hepler/)
-{{< /card >}}
-{{< card >}}
-{{< img src="https://admin.precinctportal.org/media/people/candidate_photo_1661.webp" alt="Renee Tribe" >}}
-#### [Renee Tribe](/candidates/renee-tribe/)
-{{< /card >}}
-{{< card >}}
 {{< img src="https://admin.precinctportal.org/media/people/candidate_photo_1659.webp" alt="Michelle Kaufusi" >}}
 #### [Michelle Kaufusi](/candidates/michelle-kaufusi/)
-{{< /card >}}
-{{< card >}}
-{{< img src="/img/candidates/placeholder.svg" alt="Christopher Forbush" >}}
-#### [Christopher Forbush](/candidates/christopher-forbush/)
 {{< /card >}}
 {{< /cards >}}
 
 {{< spacer >}}
 
 ### Utah County Commissioner Seat B
+
+*Neither Carolina Herrin nor David Spencer won the nomination at County Convention, and will face off in a primary. Isaac Paxman gathered signatures and will also appear on the ballot.*
 
 {{< cards count=4 >}}
 {{< card >}}
@@ -93,31 +72,8 @@ Below are the races relevant to PG03 for the 2026 Republican midterm elections. 
 #### [David Spencer](/candidates/david-spencer/)
 {{< /card >}}
 {{< card >}}
-{{< img src="https://admin.precinctportal.org/media/people/candidate_photo_1669.webp" alt="Tom Westmoreland" >}}
-#### [Tom Westmoreland](/candidates/tom-westmoreland/)
-{{< /card >}}
-{{< card >}}
-{{< img src="https://admin.precinctportal.org/media/people/candidate_photo_1670.webp" alt="Truman Van Cott" >}}
-#### [Truman Van Cott](/candidates/truman-van-cott/)
-{{< /card >}}
-{{< /cards >}}
-
-{{< cards count=4 >}}
-{{< card >}}
-{{< img src="https://admin.precinctportal.org/media/people/candidate_photo_1668.webp" alt="Rod Mann" >}}
-#### [Rod Mann](/candidates/rod-mann/)
-{{< /card >}}
-{{< card >}}
-{{< img src="/img/candidates/placeholder.svg" alt="William Brimley" >}}
-#### [William Brimley](/candidates/william-brimley/)
-{{< /card >}}
-{{< card >}}
 {{< img src="https://admin.precinctportal.org/media/people/candidate_photo_1667.webp" alt="Isaac Paxman" >}}
 #### [Isaac Paxman](/candidates/isaac-paxman/)
-{{< /card >}}
-{{< card >}}
-{{< img src="/img/candidates/placeholder.svg" alt="Brian Voeks" >}}
-#### [Brian Voeks](/candidates/brian-voeks/)
 {{< /card >}}
 {{< /cards >}}
 
@@ -151,28 +107,20 @@ Below are the races relevant to PG03 for the 2026 Republican midterm elections. 
 
 ### County Auditor
 
+*Gina Tanner won the nomination at County Convention.*
+
 {{< cards count=4 >}}
 {{< card >}}
 {{< img src="https://admin.precinctportal.org/media/people/candidate_photo_1650.webp" alt="Gina Tanner" >}}
 #### [Gina Tanner](/candidates/gina-tanner/)
-{{< /card >}}
-{{< card >}}
-{{< img src="/img/candidates/placeholder.svg" alt="Travis Hoban" >}}
-#### [Travis Hoban](/candidates/travis-hoban/)
-{{< /card >}}
-{{< card >}}
-{{< img src="https://admin.precinctportal.org/media/people/candidate_photo_1651.webp" alt="Tad Rasmussen" >}}
-#### [Tad Rasmussen](/candidates/tad-rasmussen/)
-{{< /card >}}
-{{< card >}}
-{{< img src="/img/candidates/placeholder.svg" alt="Hans Andersen" >}}
-#### [Hans Andersen](/candidates/hans-andersen/)
 {{< /card >}}
 {{< /cards >}}
 
 {{< spacer >}}
 
 ### County Clerk
+
+*Neither candidate won the nomination at County Convention, and will face off in a primary.*
 
 {{< cards count=4 >}}
 {{< card >}}
@@ -182,10 +130,6 @@ Below are the races relevant to PG03 for the 2026 Republican midterm elections. 
 {{< card >}}
 {{< img src="/img/candidates/placeholder.svg" alt="Aaron Davidson" >}}
 #### [Aaron Davidson](/candidates/aaron-davidson/)
-{{< /card >}}
-{{< card >}}
-{{< img src="/img/candidates/placeholder.svg" alt="Doug Cortney" >}}
-#### [Doug Cortney](/candidates/doug-cortney/)
 {{< /card >}}
 {{< /cards >}}
 
