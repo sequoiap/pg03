@@ -15,30 +15,7 @@ description: Candidates for Utah County Commissioner Seat B.
 #### [David Spencer](/candidates/david-spencer/)
 {{< /card >}}
 {{< card >}}
-{{< img src="https://admin.precinctportal.org/media/people/candidate_photo_1669.webp" alt="Tom Westmoreland" >}}
-#### [Tom Westmoreland](/candidates/tom-westmoreland/)
-{{< /card >}}
-{{< card >}}
-{{< img src="https://admin.precinctportal.org/media/people/candidate_photo_1670.webp" alt="Truman Van Cott" >}}
-#### [Truman Van Cott](/candidates/truman-van-cott/)
-{{< /card >}}
-{{< /cards >}}
-
-{{< cards count=4 >}}
-{{< card >}}
-{{< img src="https://admin.precinctportal.org/media/people/candidate_photo_1668.webp" alt="Rod Mann" >}}
-#### [Rod Mann](/candidates/rod-mann/)
-{{< /card >}}
-{{< card >}}
-{{< img src="/img/candidates/placeholder.svg" alt="William Brimley" >}}
-#### [William Brimley](/candidates/william-brimley/)
-{{< /card >}}
-{{< card >}}
 {{< img src="https://admin.precinctportal.org/media/people/candidate_photo_1667.webp" alt="Isaac Paxman" >}}
 #### [Isaac Paxman](/candidates/isaac-paxman/)
-{{< /card >}}
-{{< card >}}
-{{< img src="/img/candidates/placeholder.svg" alt="Brian Voeks" >}}
-#### [Brian Voeks](/candidates/brian-voeks/)
 {{< /card >}}
 {{< /cards >}}

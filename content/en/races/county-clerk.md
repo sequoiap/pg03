@@ -14,8 +14,4 @@ description: Candidates for Utah County Clerk.
 {{< img src="/img/candidates/placeholder.svg" alt="Aaron Davidson" >}}
 #### [Aaron Davidson](/candidates/aaron-davidson/)
 {{< /card >}}
-{{< card >}}
-{{< img src="/img/candidates/placeholder.svg" alt="Doug Cortney" >}}
-#### [Doug Cortney](/candidates/doug-cortney/)
-{{< /card >}}
 {{< /cards >}}
