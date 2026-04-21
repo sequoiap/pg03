@@ -158,7 +158,7 @@ Below are the races relevant to PG03 for the 2026 Republican midterm elections. 
 #### [Mike Kennedy](/candidates/mike-kennedy/)
 {{< /card >}}
 {{< card >}}
-{{< img src="/img/candidates/placeholder.svg" alt="Tyrone Jensen" >}}
+{{< img src="https://jensen4utah.com/wp-content/uploads/2026/03/cropped-Ty-2024-1.jpg" alt="Tyrone Jensen" >}}
 #### [Tyrone Jensen](/candidates/tyrone-jensen/)
 {{< /card >}}
 {{< card >}}
@@ -166,7 +166,7 @@ Below are the races relevant to PG03 for the 2026 Republican midterm elections. 
 #### [Scott Hatfield](/candidates/scott-hatfield/)
 {{< /card >}}
 {{< card >}}
-{{< img src="/img/candidates/placeholder.svg" alt="Isaiah Hardman" >}}
+{{< img src="https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/dwIwjevQuWQ7PV5Ca8ew/media/69c6ceb92c2b100eeedd48fa.jpg" alt="Isaiah Hardman" >}}
 #### [Isaiah Hardman](/candidates/isaiah-hardman/)
 {{< /card >}}
 {{< /cards >}}
