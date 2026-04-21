@@ -47,7 +47,7 @@ Below are the races relevant to PG03 for the 2026 Republican midterm elections. 
 
 {{< cards count=4 >}}
 {{< card >}}
-{{< img src="/img/candidates/placeholder.svg" alt="Brent Bowles" >}}
+{{< img src="/img/candidates/brent-bowles.png" alt="Brent Bowles" >}}
 #### [Brent Bowles](/candidates/brent-bowles/)
 {{< /card >}}
 {{< card >}}
@@ -128,7 +128,7 @@ Below are the races relevant to PG03 for the 2026 Republican midterm elections. 
 #### [Corey Astill](/candidates/corey-astill/)
 {{< /card >}}
 {{< card >}}
-{{< img src="/img/candidates/placeholder.svg" alt="Aaron Davidson" >}}
+{{< img src="/img/candidates/aaron-davidson.png" alt="Aaron Davidson" >}}
 #### [Aaron Davidson](/candidates/aaron-davidson/)
 {{< /card >}}
 {{< /cards >}}

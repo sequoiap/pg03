@@ -7,7 +7,7 @@ description: Candidates for Utah County Commissioner Seat A.
 
 {{< cards count=4 >}}
 {{< card >}}
-{{< img src="/img/candidates/placeholder.svg" alt="Brent Bowles" >}}
+{{< img src="/img/candidates/brent-bowles.png" alt="Brent Bowles" >}}
 #### [Brent Bowles](/candidates/brent-bowles/)
 {{< /card >}}
 {{< card >}}

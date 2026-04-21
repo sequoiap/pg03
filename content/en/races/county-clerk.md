@@ -11,7 +11,7 @@ description: Candidates for Utah County Clerk.
 #### [Corey Astill](/candidates/corey-astill/)
 {{< /card >}}
 {{< card >}}
-{{< img src="/img/candidates/placeholder.svg" alt="Aaron Davidson" >}}
+{{< img src="/img/candidates/aaron-davidson.png" alt="Aaron Davidson" >}}
 #### [Aaron Davidson](/candidates/aaron-davidson/)
 {{< /card >}}
 {{< /cards >}}
