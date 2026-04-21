@@ -7,6 +7,6 @@ description: Candidate for Utah County Commissioner Seat B.
 
 **Race:** [Utah County Commissioner Seat B](/races/county-commissioner-b/)
 
-**Website:** <!-- TODO: Add website link -->
+**Website:** [votepaxman.com](https://votepaxman.com/)
 
 <!-- TODO: Add candidate literature, policy platform -->

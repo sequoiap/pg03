@@ -7,6 +7,6 @@ description: Candidate for Utah County Clerk.
 
 **Race:** [County Clerk](/races/county-clerk/)
 
-**Website:** <!-- TODO: Add website link -->
+**Website:** [davidsonclerk.com](http://davidsonclerk.com/)
 
 <!-- TODO: Add candidate literature, policy platform -->
