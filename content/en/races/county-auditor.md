@@ -16,9 +16,9 @@ The Utah County Auditor in 2026 acts as the chief financial officer and independ
 
 The Auditor is an elected official and works independently of other offices, though they cannot audit their own records.
 
-*Gina Tanner won the nomination at County Convention.*
-
 ## Candidates
+
+*Gina Tanner won the nomination at County Convention.*
 
 {{< cards count=4 >}}
 {{< card >}}

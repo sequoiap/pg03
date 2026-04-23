@@ -14,9 +14,9 @@ Utah House members are elected to two-year terms to represent their constituents
 - **Oversight:** Holding hearings to oversee executive branch actions and reviewing agency performance.
 - **Rules and Procedure:** Following established rules of order, attending sessions at the Utah State Capitol, and participating in voting procedures.
 
-This race is **uncontested**. The candidate will win by acclamation.
-
 ## Candidate
+
+This race is **uncontested**. The candidate will win by acclamation.
 
 {{< cards count=4 >}}
 {{< card >}}

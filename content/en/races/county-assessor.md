@@ -3,9 +3,9 @@ title: County Assessor
 description: Candidates for Utah County Assessor.
 ---
 
-This race is **uncontested**. The candidate will win by acclamation.
-
 ## Candidate
+
+This race is **uncontested**. The candidate will win by acclamation.
 
 {{< cards count=4 >}}
 {{< card >}}

@@ -15,6 +15,8 @@ The Utah County Commission, a three-member board elected at-large, acts as the c
 
 ## Candidates
 
+*Brent Bowles won the nomination at County Convention. Michelle Kaufusi gathered signatures and will face off in a primary.*
+
 {{< cards count=4 >}}
 {{< card >}}
 {{< img src="/img/candidates/brent-bowles.png" alt="Brent Bowles" >}}

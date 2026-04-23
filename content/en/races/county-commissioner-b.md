@@ -15,6 +15,8 @@ The Utah County Commission, a three-member board elected at-large, acts as the c
 
 ## Candidates
 
+*Neither Carolina Herrin nor David Spencer won the nomination at County Convention, and will face off in a primary. Isaac Paxman gathered signatures and will also appear on the ballot.*
+
 {{< cards count=4 >}}
 {{< card >}}
 {{< img src="https://admin.precinctportal.org/media/people/candidate_photo_1665.webp" alt="Carolina Herrin" >}}

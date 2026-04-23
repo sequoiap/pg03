@@ -3,9 +3,9 @@ title: County Sheriff
 description: Candidates for Utah County Sheriff.
 ---
 
-This race is **uncontested**. The candidate will win by acclamation.
-
 ## Candidate
+
+This race is **uncontested**. The candidate will win by acclamation.
 
 {{< cards count=4 >}}
 {{< card >}}

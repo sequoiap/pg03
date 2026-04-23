@@ -17,6 +17,8 @@ As of 2026, emerging regulations require county clerks to maintain detailed reco
 
 ## Candidates
 
+*Neither candidate won the nomination at County Convention, and will face off in a primary.*
+
 {{< cards count=4 >}}
 {{< card >}}
 {{< img src="https://admin.precinctportal.org/media/people/candidate_photo_1654.webp" alt="Corey Astill" >}}

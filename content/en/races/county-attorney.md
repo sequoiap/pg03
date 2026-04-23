@@ -3,9 +3,9 @@ title: County Attorney
 description: Candidates for Utah County Attorney.
 ---
 
-This race is **uncontested**. The candidate will win by acclamation.
-
 ## Candidate
+
+This race is **uncontested**. The candidate will win by acclamation.
 
 {{< cards count=4 >}}
 {{< card >}}
