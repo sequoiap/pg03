@@ -45,6 +45,7 @@
     ],
     "classes": [
       "blog-item",
+      "blog-item--pinned",
       "blog-item__categories",
       "blog-item__category",
       "blog-item__date",
@@ -105,6 +106,7 @@
       "page-section",
       "page-taxonomy",
       "page-term",
+      "pinned-badge",
       "races",
       "races-layout",
       "races-main",
@@ -167,6 +169,7 @@
       "key-responsibilities-7",
       "key-responsibilities-and-examples",
       "key-responsibilities-of-a-utah-senator",
+      "latest-news",
       "law-enforcement",
       "mail-in-ballots",
       "mail-in-voting-in-utah-county",

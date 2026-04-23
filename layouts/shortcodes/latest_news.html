@@ -1,0 +1,14 @@
+{{- $count := .Get "count" | default 3 | int -}}
+{{- $news := where site.RegularPages "Section" "news" -}}
+{{- $recent := first $count ($news.ByDate.Reverse) -}}
+{{- with $recent }}
+<div class="cards columns-{{ len . }}">
+  {{- range . }}
+  <div class="card">
+    <h4><a href="{{ .RelPermalink }}">{{ .Title }}</a></h4>
+    {{- with .Date }}<p class="blog-item__date">{{ .Format "January 2, 2006" }}</p>{{ end }}
+    <p>{{ .Summary | plainify }}</p>
+  </div>
+  {{- end }}
+</div>
+{{- end }}

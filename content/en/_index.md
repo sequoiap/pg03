@@ -23,6 +23,12 @@ We are a Republican precinct in Utah County working to keep our community inform
 
 {{< spacer >}}
 
+## Latest News
+
+{{< latest_news count=3 >}}
+
+{{< spacer >}}
+
 ## Precinct Officers
 
 {{< responsive_table >}}

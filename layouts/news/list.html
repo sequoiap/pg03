@@ -17,10 +17,8 @@
   {{ $paginator := .Paginate $ordered }}
   {{- range $paginator.Pages }}
     <article class="blog-item{{ if .Params.pinned }} blog-item--pinned{{ end }}">
-      <h2 class="blog-item__title">
-        {{ if .Params.pinned }}<span class="pinned-badge" aria-label="Pinned post">📌 Pinned</span>{{ end }}
-        <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-      </h2>
+      <h2 class="blog-item__title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+      {{ if .Params.pinned }}<p class="pinned-badge">Pinned</p>{{ end }}
       {{- with .Date }}<p class="blog-item__date">{{ .Format "January 2, 2006" }}</p>{{ end }}
       {{- with .Params.categories }}
         <p class="blog-item__categories">

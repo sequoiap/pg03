@@ -109,15 +109,20 @@ en:
       name: "News"
       url: "/news/"
       weight: 3
+    - identifier: "news-all"
+      name: "All News"
+      url: "/news/"
+      weight: 1
+      parent: "news"
     - identifier: "news-county"
       name: "County News"
       url: "/categories/county/"
-      weight: 1
+      weight: 2
       parent: "news"
     - identifier: "news-state"
       name: "State News"
       url: "/categories/state/"
-      weight: 2
+      weight: 3
       parent: "news"
     - identifier: "straw-poll"
       name: "Straw Poll"
