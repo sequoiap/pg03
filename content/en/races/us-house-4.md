@@ -3,6 +3,17 @@ title: US House District 4
 description: Candidates for US House District 4.
 ---
 
+US House members (representatives/congressmen) are elected to two-year terms to represent specific districts by drafting, voting on, and passing federal legislation, serving on committees, and conducting constituent services. They hold exclusive powers to initiate revenue (tax) bills, impeach federal officials, and elect the president if no candidate wins the Electoral College.
+
+#### Key Responsibilities
+
+- **Legislative Function:** Introducing bills and resolutions, proposing amendments, and debating on the House floor.
+- **Committee Work:** Serving on committees (e.g., Appropriations, Judiciary) to examine, amend, and "mark up" legislation before it goes to the full House.
+- **Constituent Services/Representation:** Meeting with constituents to discuss concerns, conducting town halls, assisting with federal agencies, and touring their home districts.
+- **Fiscal Oversight:** Initiating all tax and spending bills to set federal budget policy.
+- **Impeachment Power:** Holding the exclusive authority to initiate impeachment proceedings against federal officers.
+- **Electoral Duty:** Electing the president if the Electoral College fails to produce a majority.
+
 ## Candidates
 
 {{< cards count=4 >}}
