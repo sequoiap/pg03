@@ -7,7 +7,7 @@
   <div class="card">
     <h4><a href="{{ .RelPermalink }}">{{ .Title }}</a></h4>
     {{- with .Date }}<p class="blog-item__date">{{ .Format "January 2, 2006" }}</p>{{ end }}
-    <p>{{ .Summary | plainify }}</p>
+    <p>{{ .Summary | plainify | truncate 140 }}</p>
   </div>
   {{- end }}
 </div>

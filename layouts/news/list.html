@@ -21,7 +21,7 @@
       <h2 class="blog-item__title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
       {{ if .Params.pinned }}<p><span class="pinned-badge">Pinned</span></p>{{ end }}
       {{- partial "blog/byline.html" . }}
-      <p class="blog-item__summary">{{ .Summary | plainify }}</p>
+      <p class="blog-item__summary">{{ .Summary | plainify | truncate 200 }}</p>
     </article>
   {{ end }}
   {{ template "_internal/pagination.html" . }}

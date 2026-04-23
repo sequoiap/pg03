@@ -34,10 +34,10 @@ We are a Republican precinct in Utah County working to keep our community inform
 {{< responsive_table >}}
 | Role | Name | State Delegate | County Delegate | Contact |
 | --- | --- | :---: | :---: | :---: |
-| Chair | Sequoia Ploeg | X | X | {{< contact email="sequoiap4@gmail.com" phone="3856308338" >}} |
-| Vice-Chair | Coni Manwill | X | X | {{< contact email="doyouthinkiamrich@yahoo.com" phone="8013681681" >}} |
-| Secretary and Treasurer | Debra Lewis | | X | {{< contact email="makindreemz@yahoo.com" phone="8016886902" >}} |
-| Delegate | Lane Manwill | X | X | {{< contact email="doyouthinkimrich@yahoo.com" phone="8013681680" >}} |
+| Chair | Sequoia Ploeg | X | X | {{< contact email="sequoiap4@gmail.com" phone="3856308338" showPhone="false" >}} |
+| Vice-Chair | Coni Manwill | X | X | {{< contact email="doyouthinkiamrich@yahoo.com" phone="8013681681" showPhone="false" >}} |
+| Secretary and Treasurer | Debra Lewis | | X | {{< contact email="makindreemz@yahoo.com" phone="8016886902" showPhone="false" >}} |
+| Delegate | Lane Manwill | X | X | {{< contact email="doyouthinkimrich@yahoo.com" phone="8013681680" showPhone="false" >}} |
 {{< /responsive_table >}}
 
 {{< spacer >}}
