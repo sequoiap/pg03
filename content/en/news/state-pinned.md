@@ -5,6 +5,7 @@ date: 2026-04-23
 draft: false
 categories: ["state"]
 pinned: true
+author: sequoia
 ---
 
 **State Party Website:** https://utgop.org/

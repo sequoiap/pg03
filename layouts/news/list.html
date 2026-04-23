@@ -1,4 +1,5 @@
 {{ define "main" }}
+  {{ partial "news-styles.html" . }}
   {{ .Content }}
 
   {{ with .Site.Taxonomies.categories }}
@@ -18,15 +19,8 @@
   {{- range $paginator.Pages }}
     <article class="blog-item{{ if .Params.pinned }} blog-item--pinned{{ end }}">
       <h2 class="blog-item__title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
-      {{ if .Params.pinned }}<p class="pinned-badge">Pinned</p>{{ end }}
-      {{- with .Date }}<p class="blog-item__date">{{ .Format "January 2, 2006" }}</p>{{ end }}
-      {{- with .Params.categories }}
-        <p class="blog-item__categories">
-          {{ range . }}
-            <a href="{{ (site.GetPage (printf "/categories/%s" (. | urlize))).RelPermalink }}" class="blog-item__category">{{ . | humanize }}</a>
-          {{ end }}
-        </p>
-      {{ end }}
+      {{ if .Params.pinned }}<p><span class="pinned-badge">Pinned</span></p>{{ end }}
+      {{- partial "blog/byline.html" . }}
       <p class="blog-item__summary">{{ .Summary | plainify }}</p>
     </article>
   {{ end }}

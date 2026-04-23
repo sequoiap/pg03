@@ -56,9 +56,9 @@ Explore the key issues facing our community.
 {{< button link="/issues/" text="View Issues" >}}
 {{< /card >}}
 {{< card >}}
-#### County Party
-Learn about decisions and resolutions from the Central Committee.
+#### News
+Learn about the latest news and updates from our precinct.
 {{< spacer 5 >}}
-{{< button link="/county-party/" text="Learn More" >}}
+{{< button link="/news/" text="View News" >}}
 {{< /card >}}
 {{< /cards >}}

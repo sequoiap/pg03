@@ -1,12 +1,17 @@
 {{ define "main" }}
-  <h1>{{ .Title }}</h1>
-  {{- with .Date }}<p class="blog-item__date">{{ .Format "January 2, 2006" }}</p>{{ end }}
-  {{- with .Params.categories }}
-    <p class="blog-item__categories">
-      {{ range . }}
-        <a href="{{ (site.GetPage (printf "/categories/%s" (. | urlize))).RelPermalink }}" class="blog-item__category">{{ . | humanize }}</a>
-      {{ end }}
-    </p>
-  {{ end }}
+  {{ partial "news-styles.html" . }}
+  {{- partial "blog/byline.html" . }}
+  {{ if .Params.pinned }}<p><span class="pinned-badge">Pinned</span></p>{{ end }}
   {{ .Content }}
+  {{- with .Params.categories }}
+    <section class="news-categories">
+      <span class="news-categories__label">{{ if eq (len .) 1 }}Category:{{ else }}Categories:{{ end }}</span>
+      <span class="news-categories__list">
+        {{- range $i, $cat := . }}
+          {{- if $i }}, {{ end -}}
+          <a href="{{ (site.GetPage (printf "/categories/%s" ($cat | urlize))).RelPermalink }}">{{ $cat | humanize }}</a>
+        {{- end }}
+      </span>
+    </section>
+  {{ end }}
 {{ end }}
