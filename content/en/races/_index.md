@@ -8,6 +8,7 @@ Below are the races relevant to PG03 for the 2026 Republican midterm elections. 
 {{< /intro >}}
 
 {{< spacer >}}
+{{< toc >}}
 
 ## County Delegate Races
 

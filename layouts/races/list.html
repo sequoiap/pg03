@@ -1,0 +1,90 @@
+{{ define "main" }}
+<div class="races-layout">
+    <div class="races-main">
+        {{ .Content }}
+    </div>
+    {{ with .TableOfContents }}
+    <aside class="races-toc" aria-label="Table of contents">
+        <div class="races-toc-inner">
+            <p class="races-toc-title">On this page</p>
+            {{ . }}
+        </div>
+    </aside>
+    {{ end }}
+</div>
+
+<style>
+    .races-layout {
+        display: grid;
+        grid-template-columns: minmax(0, 1fr);
+        gap: 2rem;
+    }
+
+    @media (min-width: 1024px) {
+        .races-layout {
+            grid-template-columns: minmax(0, 1fr) 260px;
+            align-items: start;
+        }
+    }
+
+    .races-main {
+        min-width: 0;
+    }
+
+    .races-toc {
+        font-size: 0.9rem;
+    }
+
+    .races-toc-inner {
+        position: sticky;
+        top: 6.5rem;
+        max-height: calc(100vh - 7.5rem);
+        overflow-y: auto;
+        padding-left: 1rem;
+        border-left: 1px solid #e5e5e5;
+    }
+
+    .races-toc-title {
+        font-size: 0.75rem;
+        font-weight: 600;
+        text-transform: uppercase;
+        letter-spacing: 0.08em;
+        color: #666;
+        margin: 0 0 0.75rem;
+    }
+
+    .races-toc ul {
+        list-style: none;
+        padding-left: 0;
+        margin: 0;
+    }
+
+    .races-toc ul ul {
+        padding-left: 0.85rem;
+        margin-top: 0.15rem;
+    }
+
+    .races-toc li {
+        margin: 0.2rem 0;
+        line-height: 1.35;
+    }
+
+    .races-toc a {
+        color: #333;
+        text-decoration: none;
+        display: block;
+        padding: 0.15rem 0;
+    }
+
+    .races-toc a:hover {
+        color: #000;
+        text-decoration: underline;
+    }
+
+    @media (max-width: 1023px) {
+        .races-toc {
+            display: none;
+        }
+    }
+</style>
+{{ end }}

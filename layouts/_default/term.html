@@ -1,0 +1,20 @@
+{{ define "main" }}
+  <h1>{{ .Title | humanize }}</h1>
+  {{ .Content }}
+
+  {{ $pinned := where .Pages "Params.pinned" true }}
+  {{ $rest := where .Pages "Params.pinned" "ne" true }}
+  {{ $ordered := append $rest.ByDate.Reverse $pinned.ByDate.Reverse }}
+  {{ $paginator := .Paginate $ordered }}
+  {{- range $paginator.Pages }}
+    <article class="blog-item{{ if .Params.pinned }} blog-item--pinned{{ end }}">
+      <h2 class="blog-item__title">
+        {{ if .Params.pinned }}<span class="pinned-badge" aria-label="Pinned post">📌 Pinned</span>{{ end }}
+        <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+      </h2>
+      {{- with .Date }}<p class="blog-item__date">{{ .Format "January 2, 2006" }}</p>{{ end }}
+      <p class="blog-item__summary">{{ .Summary | plainify }}</p>
+    </article>
+  {{ end }}
+  {{ template "_internal/pagination.html" . }}
+{{ end }}

@@ -1,0 +1,12 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+  {{- with .Date }}<p class="blog-item__date">{{ .Format "January 2, 2006" }}</p>{{ end }}
+  {{- with .Params.categories }}
+    <p class="blog-item__categories">
+      {{ range . }}
+        <a href="{{ (site.GetPage (printf "/categories/%s" (. | urlize))).RelPermalink }}" class="blog-item__category">{{ . | humanize }}</a>
+      {{ end }}
+    </p>
+  {{ end }}
+  {{ .Content }}
+{{ end }}

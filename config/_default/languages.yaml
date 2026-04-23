@@ -105,11 +105,21 @@ en:
       url: "/issues/elections/"
       weight: 4
       parent: "issues"
+    - identifier: "news"
+      name: "News"
+      url: "/news/"
+      weight: 3
+    - identifier: "news-county"
+      name: "County News"
+      url: "/categories/county/"
+      weight: 1
+      parent: "news"
+    - identifier: "news-state"
+      name: "State News"
+      url: "/categories/state/"
+      weight: 2
+      parent: "news"
     - identifier: "straw-poll"
       name: "Straw Poll"
       url: "/straw-poll/"
-      weight: 3
-    - identifier: "county-party"
-      name: "County Party"
-      url: "/county-party/"
       weight: 4
