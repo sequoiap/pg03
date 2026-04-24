@@ -289,7 +289,7 @@ Let's compare the old vs. the new legislative map.
 {{< responsive_table >}}
 | Old Map | New Map |
 | :---: | :---: |
-| {{< img src="/img/utah-legislative-map-2022-2026.png" alt="Old legislative map" >}} | {{< img src="/img/utah-legislative-map-2026-2032.png.png" alt="New legislative map" >}} |
+| {{< img src="/img/utah-legislative-map-2022-2026.png" alt="Old legislative map" >}} | {{< img src="/img/utah-legislative-map-2026-2032.png" alt="New legislative map" >}} |
 {{< /responsive_table >}}
 
 In the old map, poor old Salt Lake City has been sliced into four separate districts. If you have to maintain power by taking away other people's power, you should reexamine your strategy. Rather, your principles and the quality of life it produces should bring people over to your side. Based on election results, there is clearly enough support for one of four seats to represent Salt Lake County. It's not as though this change is giving a minority proportionally more power than they ought to have as a percentage of population. Just look at Utah Presidential Election results from 2000 through 2024:
