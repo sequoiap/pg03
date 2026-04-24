@@ -3,7 +3,6 @@ en:
   weight: 1
   ### copyright (markdown can be used) ###
   copyright: "Copyright &copy; {{< current_year >}} Sequoia Ploeg. All Rights Reserved."
-  # [Dot Org Theme](https://github.com/cncf/dot-org-hugo-theme) for Hugo by [CNCF](https://www.cncf.io).
   title: "PG03"
   params:
     description: "Precinct website for PG03."

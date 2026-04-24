@@ -213,7 +213,7 @@ The wording is reasonable. It acknowledges the necessity of reducing pollution a
 
 The proposed change can be found [here](https://docs.google.com/document/d/1EICm6nkn3mjHl0MGYyxVDoJk0oOcMyU_cZHH3mmQ_K8/edit?tab=t.0).
 
-**Sponsor:** Tyler Boyles (Utah Republican Party Secretary)
+**Sponsor:** Tyler Boyles (Utah Republican Party Field Director)
 
 ### Summary of Change
 
@@ -282,7 +282,21 @@ The proposed change can be found [here](https://docs.google.com/document/d/1d57d
 
 ### Personal Recommendation
 
-I am personally opposed to gerrymandering for political gain. I believe every person or community has the right to be represented. I recommend voting **AGAINST**.
+I am personally opposed to gerrymandering for political gain. I believe every person or community has the right to be represented. Even with the new maps, we still maintain a majority. Taking away the voice and representation, of a sizable population no less, is a sure fire way to make the issue bigger.
+
+Let's compare the old vs. the new legislative map.
+
+{{< responsive_table >}}
+| Old Map | New Map |
+| :---: | :---: |
+| {{< img src="/img/utah-legislative-map-2022-2026.png" alt="Old legislative map" >}} | {{< img src="/img/utah-legislative-map-2026-2032.png.png" alt="New legislative map" >}} |
+{{< /responsive_table >}}
+
+In the old map, poor old Salt Lake City has been sliced into four separate districts. If you have to maintain power by taking away other people's power, you should reexamine your strategy. Rather, your principles and the quality of life it produces should bring people over to your side. Based on election results, there is clearly enough support for one of four seats to represent Salt Lake County. It's not as though this change is giving a minority proportionally more power than they ought to have as a percentage of population. Just look at Utah Presidential Election results from 2000 through 2024:
+
+{{< img src="/img/utah-presidential-election-results.png" alt="Utah election results 2000-2024" >}}
+
+I recommend voting **AGAINST**.
 
 
 ## Harden The Grid Resolution
@@ -297,11 +311,11 @@ The proposed change can be found [here](https://docs.google.com/document/d/1gD88
 - It calls for the legislature to take action to harden the power grid against [Electromagnetic Pulse (EMP)](https://en.wikipedia.org/wiki/Electromagnetic_pulse) weapons and potential solar storms
 - The resolution's sponsor is concerned about Iran taking out our electronics with high-altitude nuclear bombs
 - The resolution states that a 0.5% user fee on utility bills is considered acceptable for the purpose of hardening the grid
-- A user fee is preferred over a rate increase to guarantee the money is used for the allotted purpose: ""They can't use [the money] to build a helicopter pad, or teach lesbians parenting tips.""
+- A user fee is preferred over a rate increase to guarantee the money is used for the allotted purpose.
 
 ### Personal Recommendation
 
-It's never a bad thing to be prepared. Rare but not impossible solar storms certainly do have the potential to cause catastrophic problems to our current modern electronics in a way that would not be easily fixable. On this resolution I am **IMPARTIAL**.
+It's never a bad thing to be prepared. Rare but not impossible solar storms certainly do have the potential to cause catastrophic problems to our current modern electronics in a way that would not be easily fixable. On this resolution I am **IMPARTIAL**. (I would be in favor, except I cannot yet speak for my precinct on their willingness to pay more in fees for this right now.)
 
 
 ## Resolution to Make Participation in a Primary with Signature Gathering Candidates a Party Choice
@@ -321,4 +335,4 @@ The proposed change can be found [here](https://docs.google.com/document/d/113q-
 
 ### Personal Recommendation
 
-I understand how a caucus system lowers the effect of money in a campaign and gives more candidates a more equal footing in winning the nomination. However, I also understand the arguments for signature gathering. I think this is a very round-a-bout way of skirting a State law, and if the party has a supermajority in the State, the Legislature should simply change the law rather than the Party requiring this method of routing the current laws. I recommend voting **AGAINST**.
+I understand how a caucus system lowers the effect of money in a campaign and gives more candidates a more equal footing in winning the nomination. However, I also understand the arguments for signature gathering when a system fails to represent the actual residents (whether by their own fault and lack of participation or by disenfranchisement). I think this is a very round-a-bout way of skirting a State law, and if the party has a supermajority in the State, the Legislature should simply change the law rather than the Party requiring this method of routing the current law. In either case, we're asking the legislature to change the law--why not change the one that caused the problem in the first place? You'll face exactly the same roadblocks and it'll be exactly the same amount of effort. I recommend voting **AGAINST**.
