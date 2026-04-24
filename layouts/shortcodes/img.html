@@ -1,0 +1,25 @@
+{{- $src := .Get "src" -}}
+{{- $width := .Get "width" | replaceRE "[^0-9]" "" -}}
+{{- $height := .Get "height" | replaceRE "[^0-9]" "" -}}
+{{- $caption := .Get "caption" -}}
+{{- $loading := .Get "loading" | default "lazy" -}}
+
+{{- $filenameWithExt := path.Base $src -}}
+{{- $filename := strings.TrimSuffix (path.Ext $filenameWithExt) $filenameWithExt -}}
+{{- $name := $filename | replaceRE "[-_]" " " -}}
+{{- $nameCapitalized := humanize $name -}}
+
+{{- $altVal := .Get "alt" -}}
+{{- $safeAltVal := $altVal | safeHTMLAttr -}}
+{{- $alt := "" -}}
+{{- if $safeAltVal -}}
+    {{- $alt = $safeAltVal -}}
+{{- else -}}
+    {{- $alt = $nameCapitalized | safeHTMLAttr -}}
+{{- end -}}
+
+{{- if $src -}}
+{{- if $caption -}}<figure>{{- end -}}
+<img src="{{ $src }}"{{ with $width }} width="{{ . }}"{{ end }}{{ with $height }} height="{{ . }}"{{ end }} alt="{{ $alt | safeHTMLAttr }}" loading="{{ $loading }}">
+{{- if $caption -}}<figcaption>{{ $caption | markdownify }}</figcaption></figure>{{- end -}}
+{{- end -}}
