@@ -33,10 +33,12 @@ Note: The Utah Senate is a citizen legislature, meaning senators often hold full
 {{< cards count=4 >}}
 {{< card >}}
 {{< img src="https://admin.precinctportal.org/media/people/candidate_photo_1636.webp" alt="Brady Brammer" >}}
+
 #### [Brady Brammer](/candidates/brady-brammer/)
 {{< /card >}}
 {{< card >}}
 {{< img src="/img/candidates/kelly-smith.png" alt="Kelly Smith" >}}
+
 #### [Kelly Smith](/candidates/kelly-smith/)
 {{< /card >}}
 {{< /cards >}}
@@ -61,6 +63,7 @@ Utah House members are elected to two-year terms to represent their constituents
 {{< cards count=4 >}}
 {{< card >}}
 {{< img src="https://admin.precinctportal.org/media/people/candidate_photo_1576.webp" alt="Jon Hawkins" >}}
+
 #### [Jon Hawkins](/candidates/jon-hawkins/)
 {{< /card >}}
 {{< /cards >}}
@@ -84,10 +87,12 @@ The Utah County Commission, a three-member board elected at-large, acts as the c
 {{< cards count=4 >}}
 {{< card >}}
 {{< img src="/img/candidates/brent-bowles.png" alt="Brent Bowles" >}}
+
 #### [Brent Bowles](/candidates/brent-bowles/)
 {{< /card >}}
 {{< card >}}
 {{< img src="https://admin.precinctportal.org/media/people/candidate_photo_1659.webp" alt="Michelle Kaufusi" >}}
+
 #### [Michelle Kaufusi](/candidates/michelle-kaufusi/)
 {{< /card >}}
 {{< /cards >}}
@@ -111,14 +116,17 @@ The Utah County Commission, a three-member board elected at-large, acts as the c
 {{< cards count=4 >}}
 {{< card >}}
 {{< img src="https://admin.precinctportal.org/media/people/candidate_photo_1665.webp" alt="Carolina Herrin" >}}
+
 #### [Carolina Herrin](/candidates/carolina-herrin/)
 {{< /card >}}
 {{< card >}}
 {{< img src="https://admin.precinctportal.org/media/people/candidate_photo_1666.webp" alt="David Spencer" >}}
+
 #### [David Spencer](/candidates/david-spencer/)
 {{< /card >}}
 {{< card >}}
 {{< img src="https://admin.precinctportal.org/media/people/candidate_photo_1667.webp" alt="Isaac Paxman" >}}
+
 #### [Isaac Paxman](/candidates/isaac-paxman/)
 {{< /card >}}
 {{< /cards >}}
@@ -132,6 +140,7 @@ The Utah County Commission, a three-member board elected at-large, acts as the c
 {{< cards count=4 >}}
 {{< card >}}
 {{< img src="/img/candidates/burt-garfield.jpg" alt="Burt Garfield" >}}
+
 #### [Burt Garfield](/candidates/burt-garfield/)
 {{< /card >}}
 {{< /cards >}}
@@ -145,6 +154,7 @@ The Utah County Commission, a three-member board elected at-large, acts as the c
 {{< cards count=4 >}}
 {{< card >}}
 {{< img src="https://atty.utahcounty.gov/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FAttorney.c2c937f7.webp&w=640&q=75" alt="Jeff Gray" >}}
+
 #### [Jeff Gray](/candidates/jeff-gray/)
 {{< /card >}}
 {{< /cards >}}
@@ -171,6 +181,7 @@ The Auditor is an elected official and works independently of other offices, tho
 {{< cards count=4 >}}
 {{< card >}}
 {{< img src="https://admin.precinctportal.org/media/people/candidate_photo_1650.webp" alt="Gina Tanner" >}}
+
 #### [Gina Tanner](/candidates/gina-tanner/)
 {{< /card >}}
 {{< /cards >}}
@@ -196,10 +207,12 @@ As of 2026, emerging regulations require county clerks to maintain detailed reco
 {{< cards count=4 >}}
 {{< card >}}
 {{< img src="https://admin.precinctportal.org/media/people/candidate_photo_1654.webp" alt="Corey Astill" >}}
+
 #### [Corey Astill](/candidates/corey-astill/)
 {{< /card >}}
 {{< card >}}
 {{< img src="/img/candidates/aaron-davidson.png" alt="Aaron Davidson" >}}
+
 #### [Aaron Davidson](/candidates/aaron-davidson/)
 {{< /card >}}
 {{< /cards >}}
@@ -213,6 +226,7 @@ As of 2026, emerging regulations require county clerks to maintain detailed reco
 {{< cards count=4 >}}
 {{< card >}}
 {{< img src="https://admin.precinctportal.org/media/people/candidate_photo_1672.webp" alt="Mike Smith" >}}
+
 #### [Mike Smith](/candidates/mike-smith/)
 {{< /card >}}
 {{< /cards >}}
@@ -237,18 +251,22 @@ US House members (representatives/congressmen) are elected to two-year terms to 
 {{< cards count=4 >}}
 {{< card >}}
 {{< img src="https://admin.precinctportal.org/media/people/candidate_photo_1700.webp" alt="Mike Kennedy" >}}
+
 #### [Mike Kennedy](/candidates/mike-kennedy/)
 {{< /card >}}
 {{< card >}}
 {{< img src="https://jensen4utah.com/wp-content/uploads/2026/03/cropped-Ty-2024-1.jpg" alt="Tyrone Jensen" >}}
+
 #### [Tyrone Jensen](/candidates/tyrone-jensen/)
 {{< /card >}}
 {{< card >}}
 {{< img src="https://admin.precinctportal.org/media/people/candidate_photo_1692.webp" alt="Scott Hatfield" >}}
+
 #### [Scott Hatfield](/candidates/scott-hatfield/)
 {{< /card >}}
 {{< card >}}
 {{< img src="https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/dwIwjevQuWQ7PV5Ca8ew/media/69c6ceb92c2b100eeedd48fa.jpg" alt="Isaiah Hardman" >}}
+
 #### [Isaiah Hardman](/candidates/isaiah-hardman/)
 {{< /card >}}
 {{< /cards >}}
@@ -256,10 +274,12 @@ US House members (representatives/congressmen) are elected to two-year terms to 
 {{< cards count=4 >}}
 {{< card >}}
 {{< img src="https://admin.precinctportal.org/media/people/candidate_photo_1693.webp" alt="Seth A. Stewart" >}}
+
 #### [Seth A. Stewart](/candidates/seth-a-stewart/)
 {{< /card >}}
 {{< card >}}
 {{< img src="/img/candidates/placeholder.svg" alt="Pasitale F. Lupeamanu" >}}
+
 #### [Pasitale F. Lupeamanu](/candidates/pasitale-f-lupeamanu/)
 {{< /card >}}
 {{< /cards >}}
@@ -290,10 +310,12 @@ As of 2026, Utah State Board of Education District 11 is represented by Cindy Da
 {{< cards count=4 >}}
 {{< card >}}
 {{< img src="https://admin.precinctportal.org/media/people/candidate_photo_1619.webp" alt="Tracy Nuttall" >}}
+
 #### [Tracy Nuttall](/candidates/tracy-nuttall/)
 {{< /card >}}
 {{< card >}}
 {{< img src="https://admin.precinctportal.org/media/people/candidate_photo_1618.webp" alt="Terry Hutchinson" >}}
+
 #### [Terry Hutchinson](/candidates/terry-hutchinson/)
 {{< /card >}}
 {{< /cards >}}

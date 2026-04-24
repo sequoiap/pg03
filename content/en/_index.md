@@ -44,18 +44,21 @@ We are a Republican precinct in Utah County working to keep our community inform
 
 {{< cards count=3 >}}
 {{< card >}}
+
 #### Races
 See who is running for office and learn about the candidates.
 {{< spacer 5 >}}
 {{< button link="/races/" text="View Races" >}}
 {{< /card >}}
 {{< card >}}
+
 #### Issues
 Explore the key issues facing our community.
 {{< spacer 5 >}}
 {{< button link="/issues/" text="View Issues" >}}
 {{< /card >}}
 {{< card >}}
+
 #### News
 Learn about the latest news and updates from our precinct.
 {{< spacer 5 >}}

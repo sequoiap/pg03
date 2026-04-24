@@ -23,6 +23,7 @@ The Auditor is an elected official and works independently of other offices, tho
 {{< cards count=4 >}}
 {{< card >}}
 {{< img src="https://admin.precinctportal.org/media/people/candidate_photo_1650.webp" alt="Gina Tanner" >}}
+
 #### [Gina Tanner](/candidates/gina-tanner/)
 {{< /card >}}
 {{< /cards >}}

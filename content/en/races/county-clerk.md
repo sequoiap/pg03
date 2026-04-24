@@ -22,10 +22,12 @@ As of 2026, emerging regulations require county clerks to maintain detailed reco
 {{< cards count=4 >}}
 {{< card >}}
 {{< img src="https://admin.precinctportal.org/media/people/candidate_photo_1654.webp" alt="Corey Astill" >}}
+
 #### [Corey Astill](/candidates/corey-astill/)
 {{< /card >}}
 {{< card >}}
 {{< img src="/img/candidates/aaron-davidson.png" alt="Aaron Davidson" >}}
+
 #### [Aaron Davidson](/candidates/aaron-davidson/)
 {{< /card >}}
 {{< /cards >}}

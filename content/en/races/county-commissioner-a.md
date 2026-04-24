@@ -20,10 +20,12 @@ The Utah County Commission, a three-member board elected at-large, acts as the c
 {{< cards count=4 >}}
 {{< card >}}
 {{< img src="/img/candidates/brent-bowles.png" alt="Brent Bowles" >}}
+
 #### [Brent Bowles](/candidates/brent-bowles/)
 {{< /card >}}
 {{< card >}}
 {{< img src="https://admin.precinctportal.org/media/people/candidate_photo_1659.webp" alt="Michelle Kaufusi" >}}
+
 #### [Michelle Kaufusi](/candidates/michelle-kaufusi/)
 {{< /card >}}
 {{< /cards >}}
