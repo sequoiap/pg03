@@ -123,7 +123,7 @@ This proposal also adds some clarification about what information the counties n
 
 This basically adds a requirement to provide delegate email addresses to the Party. 
 
-Providing email addresses has historically been at the County's discretion. Now it's being required that you have to give all this information up, whether you trust the party leadership or not. Some central committee members are concenred about whether the Party is going to give it just to candidates or delegates, or if they might sell the information to third parties. There are no restrictions in place. "What happens if we don't trust party leadership?"
+Providing email addresses has historically been at the County's discretion. Now it's being required that you have to give all this information up, whether you trust the party leadership or not. Some central committee members are concerned about whether the Party is going to give it just to candidates or delegates, or if they might sell the information to third parties. There are no restrictions in place. "What happens if we don't trust party leadership?"
 
 ### Personal Recommendation
 
@@ -172,7 +172,7 @@ There is some confusion about what state law actually requires. In Utah Code 20A
 
 ### Argument Against
 
-Some members of the central committe have serious concerns about this amendment. They believe that the title is a misrepresentation; delegate data is not being protected, it's being concealed.
+Some members of the central committee have serious concerns about this amendment. They believe that the title is a misrepresentation; delegate data is not being protected, it's being concealed.
 
 This amendment proposes to replace "listings," which means names, addresses, and phone numbers of delegates, with names alone. That would mean no more required inclusion of contact information for other delegates, state or county party officers, state and county central committee members, etc. 
 
@@ -180,13 +180,13 @@ Another major concern raised is the statement of "a listing **or a method**." A 
 
 There is no **right of access** here. When delegate information is public, there is.The candidates would be dependent on an undefined method for contacting delegates that is controlled by the party.
 
-There's also a difference between access and use. For example, you could have a key to access a car, but it might not work because it's out of gas or the battery is dead. Access and use are two different things. Some members of the central committe have no confidence that there wouldn't be enormous fees for **use**. Perhaps there's no fee to access the tool, but there may be a fee for use. Since there's no statement of a candidate's right to access the data, we can assume there isn't any implicit right granted.
+There's also a difference between access and use. For example, you could have a key to access a car, but it might not work because it's out of gas or the battery is dead. Access and use are two different things. Some members of the central committee have no confidence that there wouldn't be enormous fees for **use**. Perhaps there's no fee to access the tool, but there may be a fee for use. Since there's no statement of a candidate's right to access the data, we can assume there isn't any implicit right granted.
 
 As written, the party is free to sell or give this information to whomever they want (provided they're not a candidate). Insiders could know from filings that a certain candidate is running and use that information to fund an opponent or other efforts.
 
 If we adopt this, we can't know who the delegates and central committee members are except by name. This is an attack on the right to associate with other Republicans. Delegate lists cannot be validated without some required disclosure of them. That opens the door to mischief and corruption.
 
-The central committee was unable to obtain from the State Party a list of delegate contact information to even organize the meeting they held on Thursday, April 22, 2026. If this amendmenet passes, delegates will have no good method of contacting each other to discuss candidates, form opinions, or collaborate. Some members of the central committee recommend to vote NO.
+The central committee was unable to obtain from the State Party a list of delegate contact information to even organize the meeting they held on Thursday, April 22, 2026. If this amendment passes, delegates will have no good method of contacting each other to discuss candidates, form opinions, or collaborate. Some members of the central committee recommend to vote NO.
 
 ### Personal Recommendation
 
@@ -282,7 +282,7 @@ The proposed change can be found [here](https://docs.google.com/document/d/1d57d
 
 ### Personal Recommendation
 
-I am personally opposed to gerrymandering for political gain. I believe every person or community has the right to be represented. Even with the new maps, we still maintain a majority. Taking away the voice and representation, of a sizable population no less, is a sure fire way to make the issue bigger.
+I am personally opposed to gerrymandering for political gain. I believe every person or community has the right to be represented. Even with the new maps, we still maintain a majority. Taking away the voice and representation, of a sizable population no less, is a sure-fire way to make the issue bigger.
 
 Let's compare the old vs. the new legislative map.
 
@@ -335,4 +335,4 @@ The proposed change can be found [here](https://docs.google.com/document/d/113q-
 
 ### Personal Recommendation
 
-I understand how a caucus system lowers the effect of money in a campaign and gives more candidates a more equal footing in winning the nomination. However, I also understand the arguments for signature gathering when a system fails to represent the actual residents (whether by their own fault and lack of participation or by disenfranchisement). I think this is a very round-a-bout way of skirting a State law, and if the party has a supermajority in the State, the Legislature should simply change the law rather than the Party requiring this method of routing the current law. In either case, we're asking the legislature to change the law--why not change the one that caused the problem in the first place? You'll face exactly the same roadblocks and it'll be exactly the same amount of effort. I recommend voting **AGAINST**.
+I understand how a caucus system lowers the effect of money in a campaign and gives more candidates a more equal footing in winning the nomination. However, I also understand the arguments for signature gathering when a system fails to represent the actual residents (whether by their own fault and lack of participation or by disenfranchisement). I think this is a very roundabout way of skirting a State law, and if the party has a supermajority in the State, the Legislature should simply change the law rather than the Party requiring this method of routing the current law. In either case, we're asking the legislature to change the law--why not change the one that caused the problem in the first place? You'll face exactly the same roadblocks and it'll be exactly the same amount of effort. I recommend voting **AGAINST**.
